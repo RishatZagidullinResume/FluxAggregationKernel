@@ -8,7 +8,7 @@ The script solves stationary advection-diffusion equation with cylindrical symme
 
 Based on [this submission](https://arxiv.org/abs/2112.14584).
 
-* The equation in the proposed problem set can be solved analytically. However due to that fact that the solution is formed by an infinite series derivation of a simple formula for aggregation kernel is problematic. That is why we use Pade approximation. Below we see that numerical solutions corresponds well to the proposed formula:
+* The equation in the proposed problem set can be solved analytically. However due to that fact that the solution is formed by an infinite series, derivation of a simple formula for aggregation kernel is problematic. That is why we use the Pade approximation. Below we see that the numerical solution corresponds well to the proposed formula:
 
 ![final.jpg](/final.jpg)
 
